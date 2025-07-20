@@ -8,7 +8,6 @@ function EmptyFarmerTransaction() {
         <h6 className="font-bold text-xl">
           You don't have any recent Transactions
         </h6>
-        <p>Create a Facility so Farmers can book.</p>
       </div>
     </div>
   );
